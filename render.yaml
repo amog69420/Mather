@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: Mather
+    name: mathhelp22
     env: node
     plan: free
     startCommand: npm install && node index.js
