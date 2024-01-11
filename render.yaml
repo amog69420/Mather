@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: math-helper-real
+    name: Mather
     env: node
     plan: free
     startCommand: npm install && node index.js
